@@ -1,0 +1,29 @@
+[33mcommit 706546e3bd06611ac4c7871d9d64b0ebb5763d82[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mPengelola-data-staff[m[33m)[m
+Author: fadrahmangama <fadrahmangama@student.telkomuniversity.ac.id>
+Date:   Fri Feb 23 16:52:37 2024 +0700
+
+    Menambahkan file staff.html
+
+[33mcommit 18b9db74b29cf0ee49731c406bf04c1f43a85edb[m[33m ([m[1;32mmaster[m[33m)[m
+Author: fadrahmangama <fadrahmangama@student.telkomuniversity.ac.id>
+Date:   Fri Feb 23 11:53:18 2024 +0700
+
+    Mengembalikan body.css
+
+[33mcommit 5a7527fb27d0f45bce0266e8470856b96c5a1e48[m
+Author: fadrahmangama <fadrahmangama@student.telkomuniversity.ac.id>
+Date:   Fri Feb 23 11:49:51 2024 +0700
+
+    Menghapus file css, menambahkan file javascript, dan memodifikasi file.html
+
+[33mcommit 060e781a3a0cca711f7159008cfc3f450585b73d[m
+Author: fadrahmangama <fadrahmangama@student.telkomuniversity.ac.id>
+Date:   Fri Feb 23 11:46:40 2024 +0700
+
+    menambahkan baris pada file.html dan menambahkan file css
+
+[33mcommit b50c31bff85f7cb20c6c67fb959a583f139e1e81[m
+Author: fadrahmangama <fadrahmangama@student.telkomuniversity.ac.id>
+Date:   Fri Feb 23 11:43:07 2024 +0700
+
+    Menambahkan file file.html
